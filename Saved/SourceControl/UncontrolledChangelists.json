@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Documents/Projects/Unreal projects/CarControlRig/Content/BlazingRaceTemplate/SharedAssets/Maps/ControlRigShowcase.umap",
+				"D:/Documents/Projects/Unreal projects/CarControlRig/Content/CR_Car_Take3.uasset",
+				"D:/Documents/Projects/Unreal projects/CarControlRig/Content/CR_Car_Take2.uasset",
+				"D:/Documents/Projects/Unreal projects/CarControlRig/Content/BlazingRaceTemplate/SharedAssets/Cinematics/CR_Car_Take2.uasset",
+				"D:/Documents/Projects/Unreal projects/CarControlRig/Content/BlazingRaceTemplate/SharedAssets/Cinematics/CR_Car_Take3.uasset",
+				"D:/Documents/Projects/Unreal projects/CarControlRig/Content/BlazingRaceTemplate/SharedAssets/Blueprints/BP_MovingCube.uasset"
+			]
+		}
+	]
+}
